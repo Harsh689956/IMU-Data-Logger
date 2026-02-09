@@ -22,8 +22,6 @@ Features
  Automatic CSV generation using Python
  Excel-ready dataset for analysis
 
----
-
 System Workflow
 
 1. MPU6500 collects motion data.
