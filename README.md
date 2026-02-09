@@ -8,9 +8,9 @@ The received serial data is parsed using a Python script and saved into a CSV (E
 
 Hardware Used
 
-- Microcontroller: STM32F446RE Nucleo
+- Microcontroller: Nucleo Board STM32F446RE 
 - Sensor: MPU6500 (Accelerometer + Gyroscope)
-- Communication Interfaces: I2C / SPI, UART
+- Communication Interfaces: SPI, UART
 - Peripherals: RTC, GPIO
 
 Features
