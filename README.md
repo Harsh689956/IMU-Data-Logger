@@ -25,7 +25,7 @@ Features
 System Workflow
 
 1. MPU6500 collects motion data.
-2. STM32 reads sensor values via I2C/SPI.
+2. STM32 reads sensor values via SPI.
 3. Each reading is tagged with a real-time timestamp.
 4. Data is transmitted to the PC through UART.
 5. A Python script captures the serial stream and stores it as a CSV file.
